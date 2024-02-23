@@ -31,8 +31,9 @@
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/themes/bootstrap.min.css" />
 
     
-  <!-- ckediter -->
+  <!-- ckediter cdn link-->
   <script src="https://cdn.ckeditor.com/4.22.1/standard/ckeditor.js"></script>
+<!-- 	ckfinder folder link paste folder as per your require -->
   <script src="ckfinder/ckfinder.js"></script>
  
   <style>
@@ -42,7 +43,7 @@
   </style>
 
     </head>
-
+<body>
  <form action="blog_function.php" method="post" enctype="multipart/form-data">
                 <div class="card-body">
                   <div class="form-group">
@@ -72,6 +73,7 @@
                         CKFinder.setupCKEditor( description );
                 </script>
 
-
+</body>
+</html>
 
 
