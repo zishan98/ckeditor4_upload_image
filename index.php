@@ -9,31 +9,12 @@
   <!-- FAVICON -->
   <link rel="icon" href="assets/img/favicons.png">
 		 
-		<!-- BOOTSTRAP CSS -->
-		<link  id="style" href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-		<!-- ICONS CSS -->
-		<link href="assets/plugins/web-fonts/icons.css" rel="stylesheet">
-		<link href="assets/plugins/web-fonts/font-awesome/font-awesome.min.css" rel="stylesheet">
-		<link href="assets/plugins/web-fonts/plugin.css" rel="stylesheet">
-
-		<!-- STYLE CSS -->
-		<link href="assets/css/style.css" rel="stylesheet">
-		<link href="assets/css/plugins.css" rel="stylesheet">
-
-		<!-- SWITCHER CSS -->
-		<link href="assets/switcher/css/switcher.css" rel="stylesheet">
-		<link href="assets/switcher/demo.css" rel="stylesheet">
-        
-         <!-- Alertify js -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/alertify.min.css" />
-    <!-- Alertify Bootstrap theme -->
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/alertifyjs@1.13.1/build/css/themes/bootstrap.min.css" />
-
+  <!-- BOOTSTRAP CSS -->
+  <link  id="style" href="assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     
   <!-- ckediter cdn link-->
   <script src="https://cdn.ckeditor.com/4.22.1/standard/ckeditor.js"></script>
-<!-- 	ckfinder folder link paste folder as per your require -->
+  <!-- 	ckfinder folder link paste folder as per your require -->
   <script src="ckfinder/ckfinder.js"></script>
  
   <style>
